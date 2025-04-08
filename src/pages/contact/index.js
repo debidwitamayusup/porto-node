@@ -100,10 +100,18 @@ export const ContactUs = () => {
                 {contactConfig.YOUR_EMAIL}
               </a>
               <br />
-              <br />
+              {/* <br />
               {contactConfig.hasOwnProperty("YOUR_FONE") ? (
                 <p>
                   <strong>Phone:</strong> {contactConfig.YOUR_FONE}
+                </p>
+              ) : (
+                ""
+              )} */}
+              <br />
+              {contactConfig.hasOwnProperty("ADDRESS") ? (
+                <p>
+                  <strong>Address:</strong> {contactConfig.ADDRESS}
                 </p>
               ) : (
                 ""
