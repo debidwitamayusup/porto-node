@@ -21,6 +21,8 @@ export const ContactUs = () => {
     e.preventDefault();
     setFormdata({ loading: true });
 
+    console.log(formData.message);
+
     const templateParams = {
       from_name: formData.email,
       user_name: formData.name,

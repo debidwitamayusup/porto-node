@@ -167,13 +167,13 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "samodoksingsang@gmail.com",
     YOUR_FONE: "(555)123-4567",
-    ADDRESS: "Apartement SMB Unit 201, Lt. 2, Sosnovka Military Base Island, Erangel.",
+    ADDRESS: "SMB Apartment, Unit 201, 2th floor, Sosnovka Military Base Island, Erangel.",
     description: "Feel free to email me if you want to catch up with me, or just fill up the form below.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_12uko9a",
+    YOUR_TEMPLATE_ID: "template_si4o868",
+    YOUR_USER_ID: "6WKx366MDg9qOcDs7",
 };
 
 const socialprofils = {
